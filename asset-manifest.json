@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Virtual-Banking-clone-/static/css/main.d7da34c1.css",
+    "main.js": "/Virtual-Banking-clone-/static/js/main.4c4286e1.js",
+    "static/media/video.mp4": "/Virtual-Banking-clone-/static/media/video.7d1ea6a94986d5c2a068.mp4",
+    "static/media/svg-4.svg": "/Virtual-Banking-clone-/static/media/svg-4.1fd647bc32ed79f1789b98ed3fc8b3be.svg",
+    "static/media/svg-2.svg": "/Virtual-Banking-clone-/static/media/svg-2.0d5eafcfa1b4a30e0bbdaeb28bff572e.svg",
+    "static/media/svg-1.svg": "/Virtual-Banking-clone-/static/media/svg-1.abeac88e31f84637fd8fd593dad35ffc.svg",
+    "index.html": "/Virtual-Banking-clone-/index.html",
+    "main.d7da34c1.css.map": "/Virtual-Banking-clone-/static/css/main.d7da34c1.css.map",
+    "main.4c4286e1.js.map": "/Virtual-Banking-clone-/static/js/main.4c4286e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.4c4286e1.js"
+  ]
+}
